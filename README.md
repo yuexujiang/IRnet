@@ -1,7 +1,7 @@
 # IRnet
 Immunotherapy response prediction using pathway knowledge-informed graph neural network
 ## Overview
-In this work we present PromptProtein, a structural-enhanced protein language model that jointly optimize the MLM, CRD, and PPI objectives, which bring excellent improvements to a wide range of protein tasks.
+Immunotherapy, specifically, immune checkpoint inhibitors (ICIs) are powerful and precise therapies for many cancer types and have improved the survival of patients who positively respondse to them. However, only a minority of patients respond to ICI treatments. Thus, determining ICI responders before treatment would dramatically save medical resources and save time for alternative therapies. Here, we present a novel deep-learning framework that leverages graph neural network and biological pathway knowledge to predict ICI treatment response. The results indicate that the prediction performance is superior to other state-of-the-art methods or tumor microenvironment-based predictions. Moreover, the model quantifies the importance of pathways, pathway interactions, and genes to the prediction. Such interpretability of IRnet provides mechanism insights intoof different ICI treatments. 
 
 ![model](./resources/graph.png)
 ## Installation
