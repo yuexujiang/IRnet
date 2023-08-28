@@ -1,0 +1,1598 @@
+Epoch:0, Train loss:0.8576,acc:0.4728,f1:0.6226,ROCauc:0.4767| Valid loss:0.6708,acc:0.5263,f1:0.6400,ROCauc:0.5568|Test loss:1.3182,acc:0.3750,f1:0.5161,ROCauc:0.5630
+va_f1 improve from 0 to 0.6399999999999999
+train_loss improve from inf to 0.8576322793960571
+tr_f1 improve from 0 to 0.622568093385214
+Epoch:1, Train loss:0.5844,acc:0.4783,f1:0.6279,ROCauc:0.6045| Valid loss:0.7893,acc:0.4211,f1:0.5926,ROCauc:0.4886|Test loss:1.3182,acc:0.3750,f1:0.5161,ROCauc:0.5630
+va_f1 doesnot improve from 0.6399999999999999
+train_loss improve from 0.8576322793960571 to 0.5843941569328308
+tr_f1 improve from 0.622568093385214 to 0.627906976744186
+Epoch:2, Train loss:0.5220,acc:0.5272,f1:0.6641,ROCauc:0.6333| Valid loss:0.6765,acc:0.4211,f1:0.5926,ROCauc:0.6023|Test loss:1.3182,acc:0.3750,f1:0.5161,ROCauc:0.5630
+va_f1 doesnot improve from 0.6399999999999999
+train_loss improve from 0.5843941569328308 to 0.5219622254371643
+tr_f1 improve from 0.627906976744186 to 0.6640926640926641
+Epoch:3, Train loss:0.4955,acc:0.5489,f1:0.6745,ROCauc:0.5888| Valid loss:0.6859,acc:0.5263,f1:0.6400,ROCauc:0.5455|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 improve from 0.6399999999999999 to 0.6399999999999999
+train_loss improve from 0.5219622254371643 to 0.49545279145240784
+tr_f1 improve from 0.6640926640926641 to 0.6745098039215687
+Epoch:4, Train loss:0.4212,acc:0.6087,f1:0.6289,ROCauc:0.6165| Valid loss:0.5567,acc:0.5789,f1:0.6364,ROCauc:0.5568|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss improve from 0.49545279145240784 to 0.42123326659202576
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:5, Train loss:0.2698,acc:0.6250,f1:0.4651,ROCauc:0.6524| Valid loss:0.2744,acc:0.5789,f1:0.3333,ROCauc:0.5341|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss improve from 0.42123326659202576 to 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:6, Train loss:0.4421,acc:0.5326,f1:0.2037,ROCauc:0.6844| Valid loss:0.3582,acc:0.5789,f1:0.0000,ROCauc:0.5909|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:7, Train loss:0.5364,acc:0.5652,f1:0.1667,ROCauc:0.7062| Valid loss:0.5403,acc:0.5789,f1:0.0000,ROCauc:0.5227|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:8, Train loss:0.7792,acc:0.5598,f1:0.1980,ROCauc:0.7254| Valid loss:0.7400,acc:0.5789,f1:0.0000,ROCauc:0.4886|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:9, Train loss:0.8766,acc:0.5272,f1:0.1714,ROCauc:0.7653| Valid loss:0.8131,acc:0.5789,f1:0.0000,ROCauc:0.4773|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:10, Train loss:1.0823,acc:0.5054,f1:0.0000,ROCauc:0.7320| Valid loss:0.8613,acc:0.5789,f1:0.0000,ROCauc:0.7273|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:11, Train loss:1.2679,acc:0.4837,f1:0.0000,ROCauc:0.8012| Valid loss:1.0349,acc:0.5789,f1:0.0000,ROCauc:0.7500|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:12, Train loss:1.4453,acc:0.4728,f1:0.0000,ROCauc:0.7256| Valid loss:1.1184,acc:0.5789,f1:0.0000,ROCauc:0.7841|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:13, Train loss:0.8956,acc:0.5054,f1:0.0000,ROCauc:0.7747| Valid loss:0.7840,acc:0.5789,f1:0.0000,ROCauc:0.7841|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:14, Train loss:0.6768,acc:0.4837,f1:0.0594,ROCauc:0.7806| Valid loss:0.5455,acc:0.5789,f1:0.0000,ROCauc:0.7159|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:15, Train loss:0.5204,acc:0.5054,f1:0.0215,ROCauc:0.7857| Valid loss:0.4676,acc:0.5789,f1:0.0000,ROCauc:0.6591|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:16, Train loss:0.3095,acc:0.5054,f1:0.0000,ROCauc:0.7771| Valid loss:0.2466,acc:0.5789,f1:0.0000,ROCauc:0.7500|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.2698312997817993
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:17, Train loss:0.2363,acc:0.5489,f1:0.1263,ROCauc:0.7295| Valid loss:0.1853,acc:0.5789,f1:0.2000,ROCauc:0.7614|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss improve from 0.2698312997817993 to 0.23634254932403564
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:18, Train loss:0.2180,acc:0.5707,f1:0.3130,ROCauc:0.7335| Valid loss:0.1738,acc:0.5789,f1:0.2000,ROCauc:0.7500|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss improve from 0.23634254932403564 to 0.21804045140743256
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:19, Train loss:0.1707,acc:0.6848,f1:0.5606,ROCauc:0.8355| Valid loss:0.1583,acc:0.6316,f1:0.3636,ROCauc:0.7500|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss improve from 0.21804045140743256 to 0.17069852352142334
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:20, Train loss:0.1554,acc:0.7228,f1:0.6222,ROCauc:0.7937| Valid loss:0.1526,acc:0.6842,f1:0.5000,ROCauc:0.7500|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss improve from 0.17069852352142334 to 0.15539786219596863
+tr_f1 doesnot improve from 0.6745098039215687
+Epoch:21, Train loss:0.1539,acc:0.7391,f1:0.7000,ROCauc:0.7850| Valid loss:0.1509,acc:0.6316,f1:0.4615,ROCauc:0.7500|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss improve from 0.15539786219596863 to 0.1538689285516739
+tr_f1 improve from 0.6745098039215687 to 0.7
+Epoch:22, Train loss:0.1431,acc:0.7826,f1:0.7368,ROCauc:0.8162| Valid loss:0.1503,acc:0.6316,f1:0.4615,ROCauc:0.7500|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss improve from 0.1538689285516739 to 0.14311465620994568
+tr_f1 improve from 0.7 to 0.7368421052631579
+Epoch:23, Train loss:0.1513,acc:0.7283,f1:0.6429,ROCauc:0.7924| Valid loss:0.1493,acc:0.6316,f1:0.4615,ROCauc:0.7500|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.14311465620994568
+tr_f1 doesnot improve from 0.7368421052631579
+Epoch:24, Train loss:0.1468,acc:0.7717,f1:0.7162,ROCauc:0.8147| Valid loss:0.1501,acc:0.6842,f1:0.5000,ROCauc:0.7386|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.14311465620994568
+tr_f1 doesnot improve from 0.7368421052631579
+Epoch:25, Train loss:0.1509,acc:0.7391,f1:0.6620,ROCauc:0.8136| Valid loss:0.1518,acc:0.6842,f1:0.5000,ROCauc:0.7500|Test loss:0.9989,acc:0.4167,f1:0.5333,ROCauc:0.5111
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.14311465620994568
+tr_f1 doesnot improve from 0.7368421052631579
+Epoch:26, Train loss:0.1418,acc:0.6848,f1:0.6778,ROCauc:0.7898| Valid loss:0.1555,acc:0.6316,f1:0.6667,ROCauc:0.7841|Test loss:0.3012,acc:0.5417,f1:0.5600,ROCauc:0.5481
+va_f1 improve from 0.6399999999999999 to 0.6666666666666667
+train_loss improve from 0.14311465620994568 to 0.14184117317199707
+tr_f1 doesnot improve from 0.7368421052631579
+Epoch:27, Train loss:0.1348,acc:0.7065,f1:0.7097,ROCauc:0.8463| Valid loss:0.1662,acc:0.6316,f1:0.6957,ROCauc:0.7727|Test loss:0.3149,acc:0.5417,f1:0.5600,ROCauc:0.5481
+va_f1 improve from 0.6666666666666667 to 0.6956521739130436
+train_loss improve from 0.14184117317199707 to 0.13481588661670685
+tr_f1 doesnot improve from 0.7368421052631579
+Epoch:28, Train loss:0.1639,acc:0.5326,f1:0.6161,ROCauc:0.7976| Valid loss:0.1993,acc:0.5789,f1:0.6667,ROCauc:0.7841|Test loss:0.3149,acc:0.5417,f1:0.5600,ROCauc:0.5481
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.13481588661670685
+tr_f1 doesnot improve from 0.7368421052631579
+Epoch:29, Train loss:0.1502,acc:0.5761,f1:0.6549,ROCauc:0.8061| Valid loss:0.1848,acc:0.5789,f1:0.6667,ROCauc:0.7614|Test loss:0.3149,acc:0.5417,f1:0.5600,ROCauc:0.5481
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.13481588661670685
+tr_f1 doesnot improve from 0.7368421052631579
+Epoch:30, Train loss:0.1408,acc:0.6848,f1:0.6947,ROCauc:0.8137| Valid loss:0.1661,acc:0.6316,f1:0.6957,ROCauc:0.7614|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 improve from 0.6956521739130436 to 0.6956521739130436
+train_loss doesnot improve from 0.13481588661670685
+tr_f1 doesnot improve from 0.7368421052631579
+Epoch:31, Train loss:0.1605,acc:0.5598,f1:0.6873,ROCauc:0.8072| Valid loss:0.2204,acc:0.4737,f1:0.6154,ROCauc:0.7386|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.13481588661670685
+tr_f1 doesnot improve from 0.7368421052631579
+Epoch:32, Train loss:0.1307,acc:0.7554,f1:0.7739,ROCauc:0.8556| Valid loss:0.1721,acc:0.5789,f1:0.6364,ROCauc:0.7159|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.13481588661670685 to 0.1306924670934677
+tr_f1 improve from 0.7368421052631579 to 0.7738693467336683
+Epoch:33, Train loss:0.1173,acc:0.7609,f1:0.7708,ROCauc:0.9067| Valid loss:0.1637,acc:0.5789,f1:0.6364,ROCauc:0.6932|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.1306924670934677 to 0.1173323318362236
+tr_f1 doesnot improve from 0.7738693467336683
+Epoch:34, Train loss:0.1339,acc:0.6576,f1:0.7097,ROCauc:0.8378| Valid loss:0.1857,acc:0.5263,f1:0.6087,ROCauc:0.6932|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.1173323318362236
+tr_f1 doesnot improve from 0.7738693467336683
+Epoch:35, Train loss:0.1123,acc:0.8261,f1:0.8416,ROCauc:0.8962| Valid loss:0.1589,acc:0.5789,f1:0.6000,ROCauc:0.6932|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.1173323318362236 to 0.11226718127727509
+tr_f1 improve from 0.7738693467336683 to 0.8415841584158417
+Epoch:36, Train loss:0.1161,acc:0.7826,f1:0.7561,ROCauc:0.8836| Valid loss:0.1476,acc:0.5789,f1:0.6000,ROCauc:0.7386|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.11226718127727509
+tr_f1 doesnot improve from 0.8415841584158417
+Epoch:37, Train loss:0.1217,acc:0.7283,f1:0.7664,ROCauc:0.8816| Valid loss:0.1691,acc:0.5263,f1:0.6087,ROCauc:0.7273|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.11226718127727509
+tr_f1 doesnot improve from 0.8415841584158417
+Epoch:38, Train loss:0.1194,acc:0.8261,f1:0.8316,ROCauc:0.8798| Valid loss:0.1651,acc:0.4737,f1:0.5455,ROCauc:0.7045|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.11226718127727509
+tr_f1 doesnot improve from 0.8415841584158417
+Epoch:39, Train loss:0.1104,acc:0.8533,f1:0.8556,ROCauc:0.9078| Valid loss:0.1642,acc:0.6316,f1:0.6316,ROCauc:0.6705|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.11226718127727509 to 0.11041747033596039
+tr_f1 improve from 0.8415841584158417 to 0.8556149732620322
+Epoch:40, Train loss:0.1288,acc:0.7174,f1:0.7476,ROCauc:0.8803| Valid loss:0.1834,acc:0.5789,f1:0.6667,ROCauc:0.6818|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.11041747033596039
+tr_f1 doesnot improve from 0.8556149732620322
+Epoch:41, Train loss:0.1199,acc:0.7826,f1:0.8077,ROCauc:0.8943| Valid loss:0.1846,acc:0.5263,f1:0.6087,ROCauc:0.6477|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.11041747033596039
+tr_f1 doesnot improve from 0.8556149732620322
+Epoch:42, Train loss:0.1085,acc:0.8478,f1:0.8511,ROCauc:0.9161| Valid loss:0.2015,acc:0.5263,f1:0.5263,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.11041747033596039 to 0.10854509472846985
+tr_f1 doesnot improve from 0.8556149732620322
+Epoch:43, Train loss:0.1120,acc:0.8696,f1:0.8696,ROCauc:0.9069| Valid loss:0.1786,acc:0.5789,f1:0.5556,ROCauc:0.5795|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.10854509472846985
+tr_f1 improve from 0.8556149732620322 to 0.8695652173913043
+Epoch:44, Train loss:0.1017,acc:0.8804,f1:0.8842,ROCauc:0.9398| Valid loss:0.1676,acc:0.5789,f1:0.5000,ROCauc:0.6477|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.10854509472846985 to 0.101656973361969
+tr_f1 improve from 0.8695652173913043 to 0.8842105263157894
+Epoch:45, Train loss:0.1229,acc:0.7554,f1:0.7020,ROCauc:0.8905| Valid loss:0.2492,acc:0.3684,f1:0.1429,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.101656973361969
+tr_f1 doesnot improve from 0.8842105263157894
+Epoch:46, Train loss:0.1142,acc:0.8207,f1:0.7785,ROCauc:0.9402| Valid loss:0.2065,acc:0.4737,f1:0.2857,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.101656973361969
+tr_f1 doesnot improve from 0.8842105263157894
+Epoch:47, Train loss:0.0966,acc:0.8967,f1:0.8902,ROCauc:0.9700| Valid loss:0.1903,acc:0.5263,f1:0.4000,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.101656973361969 to 0.09657759964466095
+tr_f1 improve from 0.8842105263157894 to 0.8901734104046243
+Epoch:48, Train loss:0.0999,acc:0.8641,f1:0.8485,ROCauc:0.9482| Valid loss:0.1904,acc:0.5263,f1:0.4000,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:49, Train loss:0.1127,acc:0.7880,f1:0.7068,ROCauc:0.9516| Valid loss:0.2144,acc:0.4211,f1:0.1538,ROCauc:0.3523|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:50, Train loss:0.0996,acc:0.8370,f1:0.7945,ROCauc:0.9496| Valid loss:0.1922,acc:0.5263,f1:0.1818,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:51, Train loss:0.0995,acc:0.8750,f1:0.8589,ROCauc:0.9615| Valid loss:0.1799,acc:0.5789,f1:0.4286,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:52, Train loss:0.1069,acc:0.8315,f1:0.7891,ROCauc:0.9444| Valid loss:0.1842,acc:0.5789,f1:0.2000,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:53, Train loss:0.1198,acc:0.7609,f1:0.7105,ROCauc:0.9600| Valid loss:0.1916,acc:0.5789,f1:0.2000,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:54, Train loss:0.1174,acc:0.7772,f1:0.7172,ROCauc:0.9754| Valid loss:0.1932,acc:0.5789,f1:0.2000,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:55, Train loss:0.0999,acc:0.8696,f1:0.8621,ROCauc:0.9616| Valid loss:0.1795,acc:0.6316,f1:0.4615,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:56, Train loss:0.1016,acc:0.7935,f1:0.7164,ROCauc:0.9611| Valid loss:0.1952,acc:0.5263,f1:0.1818,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:57, Train loss:0.1061,acc:0.8043,f1:0.7465,ROCauc:0.9804| Valid loss:0.2535,acc:0.5789,f1:0.2000,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:58, Train loss:0.1012,acc:0.8533,f1:0.8439,ROCauc:0.9589| Valid loss:0.1778,acc:0.6316,f1:0.4615,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:59, Train loss:0.1009,acc:0.8152,f1:0.7536,ROCauc:0.9705| Valid loss:0.2857,acc:0.5789,f1:0.2000,ROCauc:0.5455|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:60, Train loss:0.1106,acc:0.8098,f1:0.7742,ROCauc:0.9534| Valid loss:0.1968,acc:0.5789,f1:0.2000,ROCauc:0.5341|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09657759964466095
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:61, Train loss:0.0959,acc:0.8804,f1:0.8690,ROCauc:0.9456| Valid loss:0.1791,acc:0.5789,f1:0.3333,ROCauc:0.5682|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.09657759964466095 to 0.09588821232318878
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:62, Train loss:0.1024,acc:0.8207,f1:0.7950,ROCauc:0.9748| Valid loss:0.1985,acc:0.5789,f1:0.2000,ROCauc:0.5909|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09588821232318878
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:63, Train loss:0.1113,acc:0.7989,f1:0.7550,ROCauc:0.9624| Valid loss:0.2051,acc:0.5789,f1:0.2000,ROCauc:0.6136|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.09588821232318878
+tr_f1 doesnot improve from 0.8901734104046243
+Epoch:64, Train loss:0.0849,acc:0.9022,f1:0.8916,ROCauc:0.9674| Valid loss:0.1833,acc:0.5789,f1:0.3333,ROCauc:0.6136|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.09588821232318878 to 0.08493755012750626
+tr_f1 improve from 0.8901734104046243 to 0.891566265060241
+Epoch:65, Train loss:0.0910,acc:0.8641,f1:0.8428,ROCauc:0.9711| Valid loss:0.2302,acc:0.5789,f1:0.3333,ROCauc:0.6023|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:66, Train loss:0.1687,acc:0.7228,f1:0.6165,ROCauc:0.9590| Valid loss:0.5233,acc:0.5263,f1:0.0000,ROCauc:0.5909|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:67, Train loss:0.1078,acc:0.8478,f1:0.8228,ROCauc:0.9663| Valid loss:0.3221,acc:0.4737,f1:0.0000,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:68, Train loss:0.2317,acc:0.6250,f1:0.4202,ROCauc:0.9654| Valid loss:0.7206,acc:0.5263,f1:0.0000,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:69, Train loss:0.2107,acc:0.6522,f1:0.4483,ROCauc:0.9710| Valid loss:0.9589,acc:0.5263,f1:0.0000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:70, Train loss:0.1312,acc:0.8152,f1:0.7463,ROCauc:0.9629| Valid loss:0.5192,acc:0.4737,f1:0.0000,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:71, Train loss:0.1134,acc:0.7989,f1:0.7413,ROCauc:0.9585| Valid loss:0.2971,acc:0.5263,f1:0.1818,ROCauc:0.5341|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:72, Train loss:0.2241,acc:0.6685,f1:0.4696,ROCauc:0.9742| Valid loss:0.9089,acc:0.5789,f1:0.0000,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:73, Train loss:0.3577,acc:0.6467,f1:0.4882,ROCauc:0.9767| Valid loss:1.3676,acc:0.5789,f1:0.0000,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:74, Train loss:0.2333,acc:0.6413,f1:0.5147,ROCauc:0.9672| Valid loss:0.9199,acc:0.5789,f1:0.0000,ROCauc:0.4205|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:75, Train loss:0.1630,acc:0.7283,f1:0.6429,ROCauc:0.9648| Valid loss:0.4191,acc:0.5789,f1:0.0000,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.08493755012750626
+tr_f1 doesnot improve from 0.891566265060241
+Epoch:76, Train loss:0.0699,acc:0.9185,f1:0.9123,ROCauc:0.9787| Valid loss:0.2005,acc:0.5789,f1:0.3333,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.08493755012750626 to 0.06993768364191055
+tr_f1 improve from 0.891566265060241 to 0.9122807017543859
+Epoch:77, Train loss:0.0827,acc:0.8315,f1:0.7891,ROCauc:0.9896| Valid loss:0.2246,acc:0.4737,f1:0.0000,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.06993768364191055
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:78, Train loss:0.0935,acc:0.8152,f1:0.7763,ROCauc:0.9823| Valid loss:0.2460,acc:0.4737,f1:0.0000,ROCauc:0.5455|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.06993768364191055
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:79, Train loss:0.0899,acc:0.8098,f1:0.7651,ROCauc:0.9786| Valid loss:0.2353,acc:0.4737,f1:0.0000,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.06993768364191055
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:80, Train loss:0.1127,acc:0.7717,f1:0.7123,ROCauc:0.9820| Valid loss:0.3732,acc:0.4737,f1:0.0000,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.06993768364191055
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:81, Train loss:0.1815,acc:0.7011,f1:0.5669,ROCauc:0.9918| Valid loss:0.9550,acc:0.5789,f1:0.0000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.06993768364191055
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:82, Train loss:0.1866,acc:0.6576,f1:0.5039,ROCauc:0.9878| Valid loss:0.7433,acc:0.5263,f1:0.0000,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.06993768364191055
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:83, Train loss:0.1017,acc:0.7772,f1:0.7133,ROCauc:0.9841| Valid loss:0.3313,acc:0.4737,f1:0.0000,ROCauc:0.5455|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.06993768364191055
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:84, Train loss:0.0832,acc:0.8859,f1:0.8662,ROCauc:0.9869| Valid loss:0.2614,acc:0.5263,f1:0.1818,ROCauc:0.5682|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.06993768364191055
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:85, Train loss:0.0908,acc:0.8424,f1:0.7972,ROCauc:0.9875| Valid loss:0.3091,acc:0.4737,f1:0.0000,ROCauc:0.5455|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.06993768364191055
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:86, Train loss:0.0555,acc:0.9185,f1:0.9068,ROCauc:0.9949| Valid loss:0.2453,acc:0.5263,f1:0.1818,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.06993768364191055 to 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:87, Train loss:0.1193,acc:0.7717,f1:0.7529,ROCauc:0.9907| Valid loss:0.4066,acc:0.4737,f1:0.0000,ROCauc:0.5795|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:88, Train loss:0.2072,acc:0.6304,f1:0.3818,ROCauc:0.9950| Valid loss:1.4833,acc:0.5263,f1:0.0000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:89, Train loss:0.0641,acc:0.8641,f1:0.8408,ROCauc:0.9878| Valid loss:0.3774,acc:0.4737,f1:0.0000,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:90, Train loss:0.0729,acc:0.8261,f1:0.8095,ROCauc:0.9873| Valid loss:0.3858,acc:0.4737,f1:0.0000,ROCauc:0.5455|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:91, Train loss:0.2308,acc:0.6141,f1:0.4034,ROCauc:0.9975| Valid loss:1.5060,acc:0.5789,f1:0.0000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:92, Train loss:0.1905,acc:0.6413,f1:0.4310,ROCauc:0.9966| Valid loss:1.3800,acc:0.5263,f1:0.0000,ROCauc:0.5341|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:93, Train loss:0.1348,acc:0.7609,f1:0.6716,ROCauc:0.9905| Valid loss:0.8068,acc:0.5263,f1:0.0000,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:94, Train loss:0.1075,acc:0.7935,f1:0.7286,ROCauc:0.9935| Valid loss:0.6164,acc:0.5263,f1:0.0000,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:95, Train loss:0.1033,acc:0.7826,f1:0.7403,ROCauc:0.9964| Valid loss:0.5700,acc:0.5263,f1:0.0000,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:96, Train loss:0.1609,acc:0.6739,f1:0.4737,ROCauc:0.9924| Valid loss:1.5199,acc:0.5263,f1:0.0000,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:97, Train loss:0.1170,acc:0.7554,f1:0.6617,ROCauc:0.9917| Valid loss:0.9465,acc:0.5263,f1:0.0000,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:98, Train loss:0.0810,acc:0.8478,f1:0.8272,ROCauc:0.9967| Valid loss:0.4720,acc:0.5263,f1:0.0000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:99, Train loss:0.1326,acc:0.7609,f1:0.6812,ROCauc:0.9933| Valid loss:0.7549,acc:0.5263,f1:0.0000,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.05545612424612045
+tr_f1 doesnot improve from 0.9122807017543859
+Epoch:100, Train loss:0.0439,acc:0.9457,f1:0.9333,ROCauc:0.9978| Valid loss:0.2831,acc:0.5263,f1:0.1818,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.05545612424612045 to 0.04394758120179176
+tr_f1 improve from 0.9122807017543859 to 0.9333333333333333
+Epoch:101, Train loss:0.0366,acc:0.9783,f1:0.9773,ROCauc:0.9988| Valid loss:0.2847,acc:0.5789,f1:0.3333,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.04394758120179176 to 0.036588963121175766
+tr_f1 improve from 0.9333333333333333 to 0.9772727272727273
+Epoch:102, Train loss:0.0478,acc:0.9783,f1:0.9770,ROCauc:0.9957| Valid loss:0.3297,acc:0.3684,f1:0.1429,ROCauc:0.3068|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9772727272727273
+Epoch:103, Train loss:0.0591,acc:0.9457,f1:0.9495,ROCauc:0.9879| Valid loss:0.5854,acc:0.3158,f1:0.3158,ROCauc:0.3068|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9772727272727273
+Epoch:104, Train loss:0.2662,acc:0.7011,f1:0.7489,ROCauc:0.8435| Valid loss:0.9769,acc:0.3158,f1:0.4348,ROCauc:0.2727|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9772727272727273
+Epoch:105, Train loss:0.1092,acc:0.8261,f1:0.8316,ROCauc:0.9176| Valid loss:0.7425,acc:0.3158,f1:0.2353,ROCauc:0.2727|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9772727272727273
+Epoch:106, Train loss:0.0518,acc:0.9511,f1:0.9534,ROCauc:0.9899| Valid loss:0.4842,acc:0.4211,f1:0.3529,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9772727272727273
+Epoch:107, Train loss:0.0766,acc:0.8261,f1:0.8095,ROCauc:0.9490| Valid loss:0.6112,acc:0.3684,f1:0.1429,ROCauc:0.2500|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9772727272727273
+Epoch:108, Train loss:0.0467,acc:0.9891,f1:0.9891,ROCauc:0.9993| Valid loss:0.3087,acc:0.4211,f1:0.2667,ROCauc:0.3295|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 improve from 0.9772727272727273 to 0.9891304347826088
+Epoch:109, Train loss:0.0651,acc:0.8804,f1:0.8608,ROCauc:0.9954| Valid loss:0.3520,acc:0.3684,f1:0.1429,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:110, Train loss:0.0796,acc:0.8587,f1:0.8354,ROCauc:0.9924| Valid loss:0.4067,acc:0.3158,f1:0.0000,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:111, Train loss:0.0661,acc:0.8859,f1:0.8627,ROCauc:0.9949| Valid loss:0.3329,acc:0.3684,f1:0.0000,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:112, Train loss:0.0495,acc:0.9565,f1:0.9545,ROCauc:1.0000| Valid loss:0.2726,acc:0.4211,f1:0.2667,ROCauc:0.3295|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:113, Train loss:0.0716,acc:0.9022,f1:0.8966,ROCauc:0.9949| Valid loss:0.4253,acc:0.3158,f1:0.0000,ROCauc:0.2386|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:114, Train loss:0.0817,acc:0.8478,f1:0.8333,ROCauc:0.9587| Valid loss:0.5092,acc:0.3684,f1:0.1429,ROCauc:0.2841|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:115, Train loss:0.0454,acc:0.9674,f1:0.9681,ROCauc:0.9967| Valid loss:0.3559,acc:0.3684,f1:0.2500,ROCauc:0.2727|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:116, Train loss:0.0405,acc:0.9728,f1:0.9718,ROCauc:0.9979| Valid loss:0.2977,acc:0.4211,f1:0.3529,ROCauc:0.2614|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:117, Train loss:0.0540,acc:0.9457,f1:0.9367,ROCauc:0.9927| Valid loss:0.3452,acc:0.2632,f1:0.0000,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:118, Train loss:0.0699,acc:0.8750,f1:0.8671,ROCauc:0.9966| Valid loss:0.3242,acc:0.3158,f1:0.0000,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:119, Train loss:0.0576,acc:0.9076,f1:0.9006,ROCauc:0.9986| Valid loss:0.3030,acc:0.3158,f1:0.0000,ROCauc:0.2841|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:120, Train loss:0.0489,acc:0.9620,f1:0.9595,ROCauc:0.9979| Valid loss:0.2826,acc:0.3684,f1:0.0000,ROCauc:0.2841|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.036588963121175766
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:121, Train loss:0.0341,acc:0.9728,f1:0.9733,ROCauc:0.9993| Valid loss:0.2683,acc:0.4737,f1:0.0000,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.036588963121175766 to 0.034098438918590546
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:122, Train loss:0.0388,acc:0.9783,f1:0.9798,ROCauc:0.9990| Valid loss:0.2834,acc:0.4737,f1:0.0000,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.034098438918590546
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:123, Train loss:0.0531,acc:0.8804,f1:0.8675,ROCauc:0.9996| Valid loss:0.2851,acc:0.5263,f1:0.0000,ROCauc:0.3523|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.034098438918590546
+tr_f1 doesnot improve from 0.9891304347826088
+Epoch:124, Train loss:0.0320,acc:0.9891,f1:0.9898,ROCauc:0.9999| Valid loss:0.2733,acc:0.4737,f1:0.0000,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.034098438918590546 to 0.03204238787293434
+tr_f1 improve from 0.9891304347826088 to 0.989795918367347
+Epoch:125, Train loss:0.0410,acc:0.9511,f1:0.9412,ROCauc:0.9990| Valid loss:0.2796,acc:0.5789,f1:0.2000,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.03204238787293434
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:126, Train loss:0.0340,acc:0.9837,f1:0.9822,ROCauc:0.9996| Valid loss:0.2556,acc:0.4737,f1:0.1667,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.03204238787293434
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:127, Train loss:0.0397,acc:0.9728,f1:0.9727,ROCauc:0.9989| Valid loss:0.2765,acc:0.5263,f1:0.1818,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.03204238787293434
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:128, Train loss:0.0627,acc:0.8859,f1:0.8645,ROCauc:0.9967| Valid loss:0.3130,acc:0.5263,f1:0.0000,ROCauc:0.3523|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.03204238787293434
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:129, Train loss:0.0297,acc:0.9891,f1:0.9895,ROCauc:0.9986| Valid loss:0.2639,acc:0.4211,f1:0.2667,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.03204238787293434 to 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:130, Train loss:0.0332,acc:0.9674,f1:0.9659,ROCauc:0.9981| Valid loss:0.2697,acc:0.5263,f1:0.1818,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:131, Train loss:0.0364,acc:0.9674,f1:0.9688,ROCauc:0.9995| Valid loss:0.2880,acc:0.5263,f1:0.1818,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:132, Train loss:0.0522,acc:0.9239,f1:0.9231,ROCauc:0.9992| Valid loss:0.3017,acc:0.5263,f1:0.0000,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:133, Train loss:0.0442,acc:0.9293,f1:0.9212,ROCauc:0.9969| Valid loss:0.3023,acc:0.5789,f1:0.2000,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:134, Train loss:0.0347,acc:0.9728,f1:0.9711,ROCauc:0.9994| Valid loss:0.2805,acc:0.5789,f1:0.2000,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:135, Train loss:0.0486,acc:0.9076,f1:0.9029,ROCauc:0.9979| Valid loss:0.3002,acc:0.5789,f1:0.2000,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:136, Train loss:0.0414,acc:0.9348,f1:0.9268,ROCauc:0.9983| Valid loss:0.3027,acc:0.5789,f1:0.2000,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:137, Train loss:0.0300,acc:0.9837,f1:0.9822,ROCauc:0.9995| Valid loss:0.3009,acc:0.5789,f1:0.2000,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:138, Train loss:0.0517,acc:0.9185,f1:0.9045,ROCauc:0.9991| Valid loss:0.3815,acc:0.5263,f1:0.0000,ROCauc:0.4205|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:139, Train loss:0.0547,acc:0.8913,f1:0.8734,ROCauc:0.9988| Valid loss:0.6585,acc:0.5263,f1:0.0000,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:140, Train loss:0.0759,acc:0.8641,f1:0.8485,ROCauc:0.9986| Valid loss:0.7617,acc:0.5263,f1:0.0000,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:141, Train loss:0.1753,acc:0.6522,f1:0.4386,ROCauc:0.9988| Valid loss:2.4622,acc:0.5263,f1:0.0000,ROCauc:0.3523|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:142, Train loss:0.1649,acc:0.6957,f1:0.5692,ROCauc:0.9987| Valid loss:1.2230,acc:0.5263,f1:0.0000,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:143, Train loss:0.3465,acc:0.5815,f1:0.3186,ROCauc:0.9998| Valid loss:3.0494,acc:0.5263,f1:0.0000,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:144, Train loss:0.4241,acc:0.5761,f1:0.3036,ROCauc:0.9986| Valid loss:3.6638,acc:0.5789,f1:0.0000,ROCauc:0.3523|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:145, Train loss:0.4327,acc:0.5489,f1:0.2655,ROCauc:0.9993| Valid loss:3.5664,acc:0.5789,f1:0.0000,ROCauc:0.3523|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:146, Train loss:0.2009,acc:0.6576,f1:0.4878,ROCauc:0.9999| Valid loss:1.6401,acc:0.5263,f1:0.0000,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:147, Train loss:0.0856,acc:0.8315,f1:0.7891,ROCauc:0.9993| Valid loss:0.7648,acc:0.5263,f1:0.0000,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:148, Train loss:0.1124,acc:0.8207,f1:0.7843,ROCauc:0.9994| Valid loss:1.9196,acc:0.5263,f1:0.0000,ROCauc:0.4886|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:149, Train loss:0.2474,acc:0.5978,f1:0.3019,ROCauc:0.9979| Valid loss:3.6439,acc:0.5263,f1:0.0000,ROCauc:0.3182|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:150, Train loss:0.1886,acc:0.6793,f1:0.5203,ROCauc:0.9995| Valid loss:3.0071,acc:0.5263,f1:0.0000,ROCauc:0.3068|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:151, Train loss:0.3396,acc:0.5707,f1:0.3577,ROCauc:0.9993| Valid loss:4.2208,acc:0.5789,f1:0.0000,ROCauc:0.2273|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:152, Train loss:0.1574,acc:0.7120,f1:0.5760,ROCauc:0.9996| Valid loss:1.6575,acc:0.5263,f1:0.0000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:153, Train loss:0.0367,acc:0.9620,f1:0.9626,ROCauc:0.9983| Valid loss:0.3397,acc:0.5263,f1:0.0000,ROCauc:0.5682|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.029693635180592537
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:154, Train loss:0.0227,acc:0.9837,f1:0.9843,ROCauc:0.9989| Valid loss:0.2917,acc:0.4737,f1:0.0000,ROCauc:0.5341|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.029693635180592537 to 0.022701865062117577
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:155, Train loss:0.0373,acc:0.9348,f1:0.9310,ROCauc:1.0000| Valid loss:0.3455,acc:0.5263,f1:0.0000,ROCauc:0.5795|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.022701865062117577
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:156, Train loss:0.0911,acc:0.8587,f1:0.8488,ROCauc:0.9996| Valid loss:0.5348,acc:0.5263,f1:0.0000,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.022701865062117577
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:157, Train loss:0.1550,acc:0.7663,f1:0.6560,ROCauc:1.0000| Valid loss:1.1699,acc:0.5263,f1:0.0000,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.022701865062117577
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:158, Train loss:0.1461,acc:0.7065,f1:0.6301,ROCauc:0.9995| Valid loss:0.8428,acc:0.5263,f1:0.0000,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.022701865062117577
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:159, Train loss:0.1878,acc:0.7174,f1:0.6389,ROCauc:1.0000| Valid loss:1.4262,acc:0.5263,f1:0.0000,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.022701865062117577
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:160, Train loss:0.1237,acc:0.7717,f1:0.6912,ROCauc:0.9995| Valid loss:1.5033,acc:0.5263,f1:0.0000,ROCauc:0.4205|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.022701865062117577
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:161, Train loss:0.0664,acc:0.8750,f1:0.8686,ROCauc:0.9995| Valid loss:0.5229,acc:0.5263,f1:0.0000,ROCauc:0.5455|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.022701865062117577
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:162, Train loss:0.0826,acc:0.8370,f1:0.7973,ROCauc:1.0000| Valid loss:0.6620,acc:0.5263,f1:0.0000,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.022701865062117577
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:163, Train loss:0.0204,acc:0.9837,f1:0.9829,ROCauc:0.9999| Valid loss:0.4084,acc:0.4737,f1:0.0000,ROCauc:0.5682|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.022701865062117577 to 0.0204165056347847
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:164, Train loss:0.0476,acc:0.8967,f1:0.8889,ROCauc:0.9998| Valid loss:0.4354,acc:0.4737,f1:0.0000,ROCauc:0.6023|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.0204165056347847
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:165, Train loss:0.0849,acc:0.7935,f1:0.7432,ROCauc:1.0000| Valid loss:0.6127,acc:0.5263,f1:0.0000,ROCauc:0.5909|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.0204165056347847
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:166, Train loss:0.0395,acc:0.9457,f1:0.9412,ROCauc:1.0000| Valid loss:0.4472,acc:0.5263,f1:0.0000,ROCauc:0.6250|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.0204165056347847
+tr_f1 doesnot improve from 0.989795918367347
+Epoch:167, Train loss:0.0175,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3389,acc:0.4737,f1:0.0000,ROCauc:0.5909|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.0204165056347847 to 0.017484093084931374
+tr_f1 improve from 0.989795918367347 to 1.0
+Epoch:168, Train loss:0.0163,acc:0.9946,f1:0.9946,ROCauc:0.9999| Valid loss:0.3189,acc:0.4737,f1:0.2857,ROCauc:0.4205|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.017484093084931374 to 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:169, Train loss:0.0338,acc:0.9620,f1:0.9595,ROCauc:1.0000| Valid loss:0.4046,acc:0.5263,f1:0.0000,ROCauc:0.3409|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:170, Train loss:0.0582,acc:0.8967,f1:0.8834,ROCauc:0.9996| Valid loss:0.5200,acc:0.5263,f1:0.0000,ROCauc:0.3182|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:171, Train loss:0.0234,acc:0.9891,f1:0.9890,ROCauc:0.9998| Valid loss:0.3849,acc:0.5263,f1:0.1818,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:172, Train loss:0.0202,acc:0.9946,f1:0.9938,ROCauc:0.9999| Valid loss:0.3568,acc:0.5263,f1:0.1818,ROCauc:0.3295|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:173, Train loss:0.0190,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3438,acc:0.5263,f1:0.1818,ROCauc:0.3409|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 improve from 1.0 to 1.0
+Epoch:174, Train loss:0.0248,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.3630,acc:0.5263,f1:0.0000,ROCauc:0.3523|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:175, Train loss:0.0314,acc:0.9565,f1:0.9524,ROCauc:1.0000| Valid loss:0.3624,acc:0.5263,f1:0.0000,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:176, Train loss:0.0430,acc:0.9076,f1:0.9029,ROCauc:1.0000| Valid loss:0.4032,acc:0.5263,f1:0.0000,ROCauc:0.5341|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:177, Train loss:0.0376,acc:0.9022,f1:0.8989,ROCauc:1.0000| Valid loss:0.3951,acc:0.5263,f1:0.0000,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:178, Train loss:0.1123,acc:0.7228,f1:0.6047,ROCauc:1.0000| Valid loss:1.7605,acc:0.5263,f1:0.0000,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:179, Train loss:0.0326,acc:0.9565,f1:0.9535,ROCauc:1.0000| Valid loss:0.5572,acc:0.5263,f1:0.0000,ROCauc:0.5682|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:180, Train loss:0.0356,acc:0.9511,f1:0.9503,ROCauc:0.9998| Valid loss:0.4593,acc:0.5263,f1:0.0000,ROCauc:0.3068|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:181, Train loss:0.0703,acc:0.8913,f1:0.8765,ROCauc:0.9992| Valid loss:1.1788,acc:0.5263,f1:0.0000,ROCauc:0.2273|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:182, Train loss:0.0578,acc:0.9076,f1:0.8859,ROCauc:0.9993| Valid loss:0.8523,acc:0.5263,f1:0.0000,ROCauc:0.2500|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.01627085544168949
+tr_f1 doesnot improve from 1.0
+Epoch:183, Train loss:0.0139,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3194,acc:0.3684,f1:0.0000,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.01627085544168949 to 0.013940360397100449
+tr_f1 improve from 1.0 to 1.0
+Epoch:184, Train loss:0.0128,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.2932,acc:0.5789,f1:0.3333,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.013940360397100449 to 0.012846368364989758
+tr_f1 improve from 1.0 to 1.0
+Epoch:185, Train loss:0.0647,acc:0.8533,f1:0.8212,ROCauc:1.0000| Valid loss:0.4614,acc:0.5263,f1:0.0000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:186, Train loss:0.0176,acc:0.9946,f1:0.9944,ROCauc:1.0000| Valid loss:0.3562,acc:0.5263,f1:0.0000,ROCauc:0.4205|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:187, Train loss:0.0206,acc:0.9837,f1:0.9836,ROCauc:1.0000| Valid loss:0.3474,acc:0.5789,f1:0.2000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:188, Train loss:0.0355,acc:0.9402,f1:0.9290,ROCauc:1.0000| Valid loss:0.4060,acc:0.5263,f1:0.0000,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:189, Train loss:0.0229,acc:0.9728,f1:0.9727,ROCauc:1.0000| Valid loss:0.4002,acc:0.5789,f1:0.2000,ROCauc:0.3295|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:190, Train loss:0.0175,acc:0.9891,f1:0.9889,ROCauc:1.0000| Valid loss:0.3686,acc:0.5789,f1:0.2000,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:191, Train loss:0.0170,acc:0.9891,f1:0.9885,ROCauc:1.0000| Valid loss:0.3628,acc:0.5263,f1:0.1818,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:192, Train loss:0.0144,acc:0.9946,f1:0.9945,ROCauc:1.0000| Valid loss:0.3665,acc:0.4737,f1:0.0000,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:193, Train loss:0.0277,acc:0.9565,f1:0.9535,ROCauc:1.0000| Valid loss:0.4532,acc:0.5263,f1:0.0000,ROCauc:0.6705|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:194, Train loss:0.0355,acc:0.9620,f1:0.9617,ROCauc:1.0000| Valid loss:0.4626,acc:0.5263,f1:0.0000,ROCauc:0.6818|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:195, Train loss:0.0333,acc:0.9565,f1:0.9524,ROCauc:1.0000| Valid loss:0.4429,acc:0.5263,f1:0.0000,ROCauc:0.6364|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:196, Train loss:0.0243,acc:0.9783,f1:0.9792,ROCauc:1.0000| Valid loss:0.3903,acc:0.5263,f1:0.0000,ROCauc:0.6250|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:197, Train loss:0.3141,acc:0.6467,f1:0.3434,ROCauc:1.0000| Valid loss:2.8849,acc:0.5789,f1:0.0000,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:198, Train loss:1.0629,acc:0.5054,f1:0.0000,ROCauc:0.9991| Valid loss:5.7938,acc:0.5789,f1:0.0000,ROCauc:0.2614|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:199, Train loss:1.1980,acc:0.4946,f1:0.0000,ROCauc:0.9995| Valid loss:5.9468,acc:0.5789,f1:0.0000,ROCauc:0.2614|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:200, Train loss:0.2032,acc:0.6902,f1:0.5899,ROCauc:1.0000| Valid loss:1.4691,acc:0.5263,f1:0.0000,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:201, Train loss:0.3810,acc:0.5815,f1:0.2804,ROCauc:1.0000| Valid loss:2.6859,acc:0.5263,f1:0.0000,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:202, Train loss:0.2648,acc:0.6467,f1:0.5113,ROCauc:1.0000| Valid loss:2.3747,acc:0.5263,f1:0.0000,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:203, Train loss:0.3689,acc:0.5380,f1:0.0860,ROCauc:1.0000| Valid loss:4.0993,acc:0.5263,f1:0.0000,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:204, Train loss:0.1697,acc:0.6522,f1:0.4182,ROCauc:1.0000| Valid loss:3.2680,acc:0.5263,f1:0.0000,ROCauc:0.3068|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:205, Train loss:0.0219,acc:0.9946,f1:0.9945,ROCauc:1.0000| Valid loss:0.6554,acc:0.5263,f1:0.0000,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:206, Train loss:0.0139,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.4698,acc:0.4737,f1:0.0000,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:207, Train loss:0.0336,acc:0.9293,f1:0.9274,ROCauc:1.0000| Valid loss:0.6485,acc:0.5263,f1:0.0000,ROCauc:0.4886|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:208, Train loss:0.0459,acc:0.9076,f1:0.8994,ROCauc:1.0000| Valid loss:0.8945,acc:0.5263,f1:0.0000,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:209, Train loss:0.0150,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4008,acc:0.4737,f1:0.0000,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 improve from 1.0 to 1.0
+Epoch:210, Train loss:0.1629,acc:0.6576,f1:0.5039,ROCauc:0.9996| Valid loss:2.1949,acc:0.5263,f1:0.0000,ROCauc:0.3182|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:211, Train loss:0.0881,acc:0.8696,f1:0.8421,ROCauc:1.0000| Valid loss:1.7037,acc:0.5263,f1:0.0000,ROCauc:0.4886|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:212, Train loss:0.0153,acc:0.9946,f1:0.9944,ROCauc:1.0000| Valid loss:0.4262,acc:0.5789,f1:0.3333,ROCauc:0.5682|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.012846368364989758
+tr_f1 doesnot improve from 1.0
+Epoch:213, Train loss:0.0093,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3997,acc:0.5789,f1:0.3333,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.012846368364989758 to 0.009314914233982563
+tr_f1 improve from 1.0 to 1.0
+Epoch:214, Train loss:0.0344,acc:0.9511,f1:0.9514,ROCauc:1.0000| Valid loss:0.9913,acc:0.5789,f1:0.2000,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:215, Train loss:0.0226,acc:0.9728,f1:0.9689,ROCauc:1.0000| Valid loss:0.3706,acc:0.5789,f1:0.2000,ROCauc:0.6705|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:216, Train loss:0.0157,acc:0.9891,f1:0.9899,ROCauc:1.0000| Valid loss:0.3439,acc:0.5789,f1:0.5556,ROCauc:0.6364|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:217, Train loss:0.0134,acc:0.9837,f1:0.9827,ROCauc:1.0000| Valid loss:0.3525,acc:0.5789,f1:0.2000,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:218, Train loss:0.1227,acc:0.7554,f1:0.6939,ROCauc:0.9995| Valid loss:3.7559,acc:0.5263,f1:0.0000,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:219, Train loss:0.0136,acc:0.9946,f1:0.9945,ROCauc:1.0000| Valid loss:0.3985,acc:0.5263,f1:0.3077,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:220, Train loss:0.0165,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3725,acc:0.4211,f1:0.4211,ROCauc:0.4886|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 improve from 1.0 to 1.0
+Epoch:221, Train loss:0.0134,acc:0.9946,f1:0.9946,ROCauc:1.0000| Valid loss:0.3453,acc:0.3684,f1:0.2500,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:222, Train loss:0.0270,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3455,acc:0.5789,f1:0.2000,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 improve from 1.0 to 1.0
+Epoch:223, Train loss:0.1206,acc:0.7500,f1:0.7160,ROCauc:0.9076| Valid loss:0.3069,acc:0.5789,f1:0.3333,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:224, Train loss:0.0282,acc:0.9620,f1:0.9645,ROCauc:1.0000| Valid loss:0.3610,acc:0.5789,f1:0.3333,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:225, Train loss:0.0133,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4002,acc:0.5789,f1:0.3333,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 improve from 1.0 to 1.0
+Epoch:226, Train loss:0.0123,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3995,acc:0.5789,f1:0.3333,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 improve from 1.0 to 1.0
+Epoch:227, Train loss:0.0305,acc:0.9565,f1:0.9545,ROCauc:1.0000| Valid loss:0.7428,acc:0.5263,f1:0.0000,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:228, Train loss:0.1218,acc:0.7228,f1:0.6531,ROCauc:1.0000| Valid loss:2.6103,acc:0.5263,f1:0.0000,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:229, Train loss:0.0787,acc:0.8370,f1:0.8101,ROCauc:1.0000| Valid loss:2.3935,acc:0.5263,f1:0.0000,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:230, Train loss:0.0184,acc:0.9837,f1:0.9851,ROCauc:1.0000| Valid loss:0.4118,acc:0.4737,f1:0.1667,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:231, Train loss:0.0310,acc:0.9620,f1:0.9591,ROCauc:0.9991| Valid loss:0.7327,acc:0.4737,f1:0.0000,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:232, Train loss:0.0186,acc:0.9946,f1:0.9945,ROCauc:1.0000| Valid loss:0.6314,acc:0.4737,f1:0.0000,ROCauc:0.3523|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:233, Train loss:0.0100,acc:0.9891,f1:0.9895,ROCauc:1.0000| Valid loss:0.4068,acc:0.5263,f1:0.3077,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:234, Train loss:0.0109,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.3962,acc:0.5263,f1:0.4706,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:235, Train loss:0.0100,acc:0.9946,f1:0.9948,ROCauc:1.0000| Valid loss:0.3872,acc:0.5789,f1:0.4286,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:236, Train loss:0.0227,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.7298,acc:0.5263,f1:0.0000,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:237, Train loss:0.0850,acc:0.8207,f1:0.7724,ROCauc:0.9998| Valid loss:2.4914,acc:0.5263,f1:0.0000,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:238, Train loss:0.0096,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.3994,acc:0.5263,f1:0.3077,ROCauc:0.4205|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:239, Train loss:0.0109,acc:0.9891,f1:0.9891,ROCauc:1.0000| Valid loss:0.3741,acc:0.4737,f1:0.3750,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:240, Train loss:0.0101,acc:0.9946,f1:0.9945,ROCauc:0.9999| Valid loss:0.3987,acc:0.4211,f1:0.2667,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.009314914233982563
+tr_f1 doesnot improve from 1.0
+Epoch:241, Train loss:0.0088,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4030,acc:0.4737,f1:0.3750,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.009314914233982563 to 0.008759971708059311
+tr_f1 improve from 1.0 to 1.0
+Epoch:242, Train loss:0.0099,acc:0.9946,f1:0.9949,ROCauc:1.0000| Valid loss:0.3726,acc:0.4211,f1:0.2667,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:243, Train loss:0.0169,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4213,acc:0.4737,f1:0.0000,ROCauc:0.4205|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 improve from 1.0 to 1.0
+Epoch:244, Train loss:0.0353,acc:0.9457,f1:0.9419,ROCauc:1.0000| Valid loss:0.5011,acc:0.5263,f1:0.0000,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:245, Train loss:0.0234,acc:0.9891,f1:0.9889,ROCauc:1.0000| Valid loss:0.3639,acc:0.5263,f1:0.0000,ROCauc:0.4205|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:246, Train loss:0.0280,acc:0.9620,f1:0.9634,ROCauc:1.0000| Valid loss:0.4312,acc:0.4737,f1:0.5000,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:247, Train loss:0.0145,acc:0.9891,f1:0.9890,ROCauc:1.0000| Valid loss:0.3828,acc:0.4737,f1:0.4444,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:248, Train loss:0.0122,acc:0.9946,f1:0.9941,ROCauc:0.9999| Valid loss:0.4050,acc:0.4211,f1:0.2667,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:249, Train loss:0.0276,acc:0.9728,f1:0.9704,ROCauc:1.0000| Valid loss:0.4929,acc:0.4211,f1:0.0000,ROCauc:0.3409|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:250, Train loss:0.0175,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4457,acc:0.4211,f1:0.0000,ROCauc:0.3523|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 improve from 1.0 to 1.0
+Epoch:251, Train loss:0.0130,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4241,acc:0.4211,f1:0.0000,ROCauc:0.3295|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 improve from 1.0 to 1.0
+Epoch:252, Train loss:0.0214,acc:0.9946,f1:0.9946,ROCauc:1.0000| Valid loss:0.4913,acc:0.5263,f1:0.0000,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:253, Train loss:0.0144,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4635,acc:0.4737,f1:0.0000,ROCauc:0.3068|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 improve from 1.0 to 1.0
+Epoch:254, Train loss:0.0109,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4197,acc:0.4737,f1:0.1667,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 improve from 1.0 to 1.0
+Epoch:255, Train loss:0.0099,acc:0.9946,f1:0.9942,ROCauc:1.0000| Valid loss:0.3914,acc:0.4211,f1:0.2667,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:256, Train loss:0.0127,acc:0.9891,f1:0.9885,ROCauc:1.0000| Valid loss:0.3699,acc:0.4737,f1:0.4444,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:257, Train loss:0.0100,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.3726,acc:0.4737,f1:0.2857,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:258, Train loss:0.0457,acc:0.9076,f1:0.8957,ROCauc:1.0000| Valid loss:1.0290,acc:0.5263,f1:0.0000,ROCauc:0.5909|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 doesnot improve from 1.0
+Epoch:259, Train loss:0.0123,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3792,acc:0.6316,f1:0.3636,ROCauc:0.5455|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 improve from 1.0 to 1.0
+Epoch:260, Train loss:0.0136,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.5166,acc:0.6316,f1:0.3636,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008759971708059311
+tr_f1 improve from 1.0 to 1.0
+Epoch:261, Train loss:0.0087,acc:1.0000,f1:1.0
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.008788627572357655
+tr_f1 improve from 1.0 to 1.0
+Epoch:260, Train loss:0.0158,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3591,acc:0.5789,f1:0.2000,ROCauc:0.5341|Test loss:1.1992,acc:0.4167,f1:0.5333,ROCauc:0.5407
+va_f1 doesnot improve from 0.6399999999999999
+train_loss doesnot improve from 0.008788627572357655
+tr_f1 improve from 1.0 to 1.0
+Epoch:261, Train loss:0.0084,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3324,acc:0.4737,f1:0.1667,ROCauc:0.5114|Test loss:1.1992,acc:0.4167,f1:0.5333,ROCauc:0.5407
+c:0.8967,f1:0.8862,ROCauc:1.0000| Valid loss:0.8746,acc:0.5263,f1:0.0000,ROCauc:0.6705|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 doesnot improve from 1.0
+Epoch:264, Train loss:0.0131,acc:0.9891,f1:0.9891,ROCauc:1.0000| Valid loss:0.4128,acc:0.5263,f1:0.5263,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 doesnot improve from 1.0
+Epoch:265, Train loss:0.0128,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3985,acc:0.4211,f1:0.2667,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 improve from 1.0 to 1.0
+Epoch:266, Train loss:0.0143,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4175,acc:0.4737,f1:0.1667,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 improve from 1.0 to 1.0
+Epoch:267, Train loss:0.0157,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4166,acc:0.4737,f1:0.1667,ROCauc:0.3523|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 improve from 1.0 to 1.0
+Epoch:268, Train loss:0.1246,acc:0.7663,f1:0.7190,ROCauc:0.9998| Valid loss:3.2720,acc:0.5263,f1:0.0000,ROCauc:0.2159|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 doesnot improve from 1.0
+Epoch:269, Train loss:0.0170,acc:0.9783,f1:0.9783,ROCauc:1.0000| Valid loss:0.3803,acc:0.5263,f1:0.1818,ROCauc:0.5795|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 doesnot improve from 1.0
+Epoch:270, Train loss:0.0192,acc:0.9783,f1:0.9808,ROCauc:1.0000| Valid loss:0.3562,acc:0.5263,f1:0.5263,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 doesnot improve from 1.0
+Epoch:271, Train loss:0.0125,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.6656,acc:0.5263,f1:0.1818,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 improve from 1.0 to 1.0
+Epoch:272, Train loss:0.1092,acc:0.7717,f1:0.7308,ROCauc:1.0000| Valid loss:2.1888,acc:0.5263,f1:0.0000,ROCauc:0.4205|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 doesnot improve from 1.0
+Epoch:273, Train loss:0.2965,acc:0.6250,f1:0.4000,ROCauc:1.0000| Valid loss:3.2928,acc:0.5263,f1:0.0000,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 doesnot improve from 1.0
+Epoch:274, Train loss:0.0902,acc:0.7772,f1:0.7248,ROCauc:1.0000| Valid loss:1.8288,acc:0.5263,f1:0.0000,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 doesnot improve from 1.0
+Epoch:275, Train loss:0.0126,acc:0.9891,f1:0.9891,ROCauc:1.0000| Valid loss:0.6052,acc:0.5789,f1:0.2000,ROCauc:0.5795|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.008669992908835411
+tr_f1 doesnot improve from 1.0
+Epoch:276, Train loss:0.0053,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4083,acc:0.5789,f1:0.3333,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.008669992908835411 to 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:277, Train loss:0.0078,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4576,acc:0.6316,f1:0.3636,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:278, Train loss:0.0883,acc:0.8152,f1:0.7792,ROCauc:1.0000| Valid loss:2.3091,acc:0.5263,f1:0.0000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:279, Train loss:0.0174,acc:0.9891,f1:0.9892,ROCauc:1.0000| Valid loss:0.8383,acc:0.5263,f1:0.0000,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:280, Train loss:0.0073,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4208,acc:0.5263,f1:0.1818,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:281, Train loss:0.0593,acc:0.8696,f1:0.8537,ROCauc:1.0000| Valid loss:1.3163,acc:0.5263,f1:0.0000,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:282, Train loss:3.4605,acc:0.5163,f1:0.0000,ROCauc:1.0000| Valid loss:6.4176,acc:0.5789,f1:0.0000,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:283, Train loss:6.7556,acc:0.4837,f1:0.0000,ROCauc:1.0000| Valid loss:6.4392,acc:0.5789,f1:0.0000,ROCauc:0.3068|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:284, Train loss:4.5131,acc:0.5163,f1:0.0000,ROCauc:1.0000| Valid loss:6.4392,acc:0.5789,f1:0.0000,ROCauc:0.2841|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:285, Train loss:1.8079,acc:0.5109,f1:0.0000,ROCauc:1.0000| Valid loss:6.4393,acc:0.5789,f1:0.0000,ROCauc:0.2614|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:286, Train loss:0.4280,acc:0.5815,f1:0.2222,ROCauc:1.0000| Valid loss:5.2581,acc:0.5263,f1:0.0000,ROCauc:0.2614|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:287, Train loss:0.5987,acc:0.4783,f1:0.0000,ROCauc:1.0000| Valid loss:5.6089,acc:0.5789,f1:0.0000,ROCauc:0.2386|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:288, Train loss:1.3803,acc:0.5163,f1:0.0000,ROCauc:1.0000| Valid loss:6.3587,acc:0.5789,f1:0.0000,ROCauc:0.2273|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:289, Train loss:0.1996,acc:0.6957,f1:0.5692,ROCauc:1.0000| Valid loss:3.1754,acc:0.5263,f1:0.0000,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:290, Train loss:0.1373,acc:0.7391,f1:0.6364,ROCauc:1.0000| Valid loss:2.3822,acc:0.5263,f1:0.0000,ROCauc:0.4886|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:291, Train loss:0.1812,acc:0.7065,f1:0.6087,ROCauc:1.0000| Valid loss:3.2056,acc:0.5263,f1:0.0000,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:292, Train loss:0.0155,acc:0.9891,f1:0.9884,ROCauc:0.9999| Valid loss:0.9508,acc:0.5263,f1:0.0000,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:293, Train loss:0.0148,acc:0.9946,f1:0.9942,ROCauc:1.0000| Valid loss:0.8750,acc:0.5263,f1:0.0000,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:294, Train loss:0.0919,acc:0.8315,f1:0.8144,ROCauc:1.0000| Valid loss:2.6890,acc:0.5263,f1:0.0000,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:295, Train loss:0.2166,acc:0.7174,f1:0.5806,ROCauc:1.0000| Valid loss:4.0281,acc:0.5263,f1:0.0000,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:296, Train loss:0.0620,acc:0.9130,f1:0.9140,ROCauc:1.0000| Valid loss:2.8564,acc:0.5263,f1:0.0000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:297, Train loss:0.0067,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.8178,acc:0.5789,f1:0.3333,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:298, Train loss:0.0108,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.9471,acc:0.6316,f1:0.3636,ROCauc:0.5682|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:299, Train loss:0.0970,acc:0.8424,f1:0.8199,ROCauc:1.0000| Valid loss:1.9958,acc:0.5263,f1:0.0000,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:300, Train loss:0.0154,acc:0.9946,f1:0.9945,ROCauc:1.0000| Valid loss:0.4248,acc:0.6316,f1:0.6667,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:301, Train loss:0.0212,acc:0.9783,f1:0.9789,ROCauc:1.0000| Valid loss:0.4606,acc:0.5263,f1:0.5263,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:302, Train loss:0.0100,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3889,acc:0.4211,f1:0.2667,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:303, Train loss:0.0088,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3879,acc:0.4737,f1:0.3750,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:304, Train loss:0.0099,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.6772,acc:0.5263,f1:0.3077,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:305, Train loss:0.0123,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3638,acc:0.3684,f1:0.2500,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:306, Train loss:0.0159,acc:0.9891,f1:0.9891,ROCauc:1.0000| Valid loss:0.4861,acc:0.4211,f1:0.4211,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:307, Train loss:0.0147,acc:0.9891,f1:0.9888,ROCauc:1.0000| Valid loss:0.4438,acc:0.4211,f1:0.2667,ROCauc:0.3182|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:308, Train loss:0.0118,acc:0.9946,f1:0.9949,ROCauc:1.0000| Valid loss:0.4594,acc:0.4737,f1:0.5000,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:309, Train loss:0.0089,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4022,acc:0.5263,f1:0.5263,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:310, Train loss:0.0087,acc:0.9946,f1:0.9939,ROCauc:1.0000| Valid loss:0.3694,acc:0.4737,f1:0.3750,ROCauc:0.4886|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:311, Train loss:0.0177,acc:0.9946,f1:0.9948,ROCauc:1.0000| Valid loss:0.4309,acc:0.5263,f1:0.5263,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:312, Train loss:0.0141,acc:0.9891,f1:0.9898,ROCauc:1.0000| Valid loss:0.4315,acc:0.5263,f1:0.5263,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:313, Train loss:0.0129,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.7981,acc:0.4737,f1:0.0000,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:314, Train loss:0.0072,acc:0.9891,f1:0.9880,ROCauc:1.0000| Valid loss:0.4172,acc:0.5263,f1:0.3077,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:315, Train loss:0.0146,acc:0.9891,f1:0.9890,ROCauc:1.0000| Valid loss:0.4024,acc:0.4737,f1:0.4444,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:316, Train loss:0.0137,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3580,acc:0.5263,f1:0.1818,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:317, Train loss:0.0216,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3560,acc:0.5263,f1:0.1818,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:318, Train loss:0.0121,acc:0.9891,f1:0.9886,ROCauc:1.0000| Valid loss:0.3739,acc:0.4737,f1:0.2857,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:319, Train loss:0.0108,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3885,acc:0.4737,f1:0.2857,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:320, Train loss:0.0103,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4078,acc:0.4737,f1:0.2857,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:321, Train loss:0.0101,acc:0.9946,f1:0.9949,ROCauc:1.0000| Valid loss:0.3946,acc:0.4737,f1:0.2857,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:322, Train loss:0.0123,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4255,acc:0.5263,f1:0.1818,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:323, Train loss:0.0092,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3540,acc:0.5789,f1:0.4286,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:324, Train loss:0.0076,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3612,acc:0.5263,f1:0.3077,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:325, Train loss:0.0087,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.3583,acc:0.5263,f1:0.4000,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 doesnot improve from 1.0
+Epoch:326, Train loss:0.0128,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4654,acc:0.5263,f1:0.1818,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:327, Train loss:0.0221,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.7579,acc:0.5789,f1:0.2000,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:328, Train loss:0.0092,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3701,acc:0.4737,f1:0.2857,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:329, Train loss:0.0094,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3783,acc:0.5263,f1:0.3077,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:330, Train loss:0.0066,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3603,acc:0.4737,f1:0.2857,ROCauc:0.5568|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005268992390483618
+tr_f1 improve from 1.0 to 1.0
+Epoch:331, Train loss:0.0053,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3553,acc:0.4737,f1:0.2857,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.005268992390483618 to 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:332, Train loss:0.0066,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3952,acc:0.5263,f1:0.1818,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:333, Train loss:0.0071,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3760,acc:0.5263,f1:0.1818,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:334, Train loss:0.0083,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3651,acc:0.5789,f1:0.3333,ROCauc:0.5000|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:335, Train loss:0.0068,acc:0.9946,f1:0.9944,ROCauc:1.0000| Valid loss:0.3546,acc:0.5263,f1:0.3077,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:336, Train loss:0.0084,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3752,acc:0.5263,f1:0.3077,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:337, Train loss:0.0230,acc:0.9783,f1:0.9770,ROCauc:1.0000| Valid loss:0.5780,acc:0.5263,f1:0.0000,ROCauc:0.2841|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:338, Train loss:0.0098,acc:0.9891,f1:0.9898,ROCauc:1.0000| Valid loss:0.3899,acc:0.3684,f1:0.1429,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:339, Train loss:0.0194,acc:0.9565,f1:0.9524,ROCauc:1.0000| Valid loss:0.4952,acc:0.5263,f1:0.0000,ROCauc:0.3068|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:340, Train loss:0.0094,acc:0.9946,f1:0.9944,ROCauc:1.0000| Valid loss:0.4229,acc:0.4737,f1:0.1667,ROCauc:0.3409|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:341, Train loss:0.0085,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.4070,acc:0.3684,f1:0.2500,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:342, Train loss:0.0077,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.4141,acc:0.4737,f1:0.2857,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:343, Train loss:0.0165,acc:0.9891,f1:0.9891,ROCauc:1.0000| Valid loss:0.5352,acc:0.5263,f1:0.0000,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:344, Train loss:0.0085,acc:0.9946,f1:0.9944,ROCauc:1.0000| Valid loss:0.4098,acc:0.5263,f1:0.3077,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:345, Train loss:0.0116,acc:0.9946,f1:0.9944,ROCauc:1.0000| Valid loss:0.3842,acc:0.5263,f1:0.5263,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:346, Train loss:0.0333,acc:0.9511,f1:0.9534,ROCauc:1.0000| Valid loss:0.5212,acc:0.5263,f1:0.6087,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:347, Train loss:0.0151,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.5734,acc:0.4737,f1:0.0000,ROCauc:0.3409|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:348, Train loss:0.0139,acc:0.9946,f1:0.9950,ROCauc:1.0000| Valid loss:0.3716,acc:0.5263,f1:0.4706,ROCauc:0.5341|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:349, Train loss:0.0094,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3475,acc:0.5263,f1:0.3077,ROCauc:0.5114|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:350, Train loss:0.0088,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.3575,acc:0.5263,f1:0.4000,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:351, Train loss:0.0119,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3941,acc:0.4737,f1:0.4444,ROCauc:0.5682|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:352, Train loss:0.0424,acc:0.9293,f1:0.9340,ROCauc:1.0000| Valid loss:0.5199,acc:0.6316,f1:0.6667,ROCauc:0.6364|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:353, Train loss:0.0087,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3912,acc:0.4211,f1:0.2667,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:354, Train loss:0.0101,acc:0.9946,f1:0.9948,ROCauc:1.0000| Valid loss:0.5300,acc:0.5263,f1:0.1818,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:355, Train loss:0.0449,acc:0.9293,f1:0.9222,ROCauc:0.9966| Valid loss:1.2209,acc:0.5263,f1:0.0000,ROCauc:0.2727|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:356, Train loss:0.0080,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4548,acc:0.4737,f1:0.0000,ROCauc:0.3409|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:357, Train loss:0.0311,acc:0.9620,f1:0.9617,ROCauc:1.0000| Valid loss:0.4576,acc:0.4211,f1:0.4762,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:358, Train loss:0.0090,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3801,acc:0.5263,f1:0.3077,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:359, Train loss:0.0391,acc:0.9511,f1:0.9474,ROCauc:1.0000| Valid loss:1.5088,acc:0.5263,f1:0.0000,ROCauc:0.2955|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:360, Train loss:0.0094,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4900,acc:0.5263,f1:0.1818,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:361, Train loss:0.0062,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3915,acc:0.5263,f1:0.3077,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:362, Train loss:0.0068,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4603,acc:0.4737,f1:0.1667,ROCauc:0.4886|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:363, Train loss:0.0174,acc:0.9946,f1:0.9945,ROCauc:1.0000| Valid loss:0.7771,acc:0.5263,f1:0.0000,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:364, Train loss:0.0428,acc:0.9076,f1:0.9006,ROCauc:1.0000| Valid loss:1.8955,acc:0.5263,f1:0.0000,ROCauc:0.2841|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:365, Train loss:0.1291,acc:0.7120,f1:0.6131,ROCauc:1.0000| Valid loss:3.8194,acc:0.5263,f1:0.0000,ROCauc:0.3182|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:366, Train loss:0.0475,acc:0.9348,f1:0.9310,ROCauc:1.0000| Valid loss:1.7228,acc:0.5263,f1:0.0000,ROCauc:0.3409|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:367, Train loss:0.0112,acc:0.9946,f1:0.9945,ROCauc:1.0000| Valid loss:0.5089,acc:0.4737,f1:0.0000,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:368, Train loss:0.0066,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4496,acc:0.4737,f1:0.1667,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 improve from 1.0 to 1.0
+Epoch:369, Train loss:0.0066,acc:0.9946,f1:0.9950,ROCauc:1.0000| Valid loss:0.4083,acc:0.5263,f1:0.4000,ROCauc:0.4205|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.005257235374301672
+tr_f1 doesnot improve from 1.0
+Epoch:370, Train loss:0.0049,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4057,acc:0.4737,f1:0.2857,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.005257235374301672 to 0.004934551194310188
+tr_f1 improve from 1.0 to 1.0
+Epoch:371, Train loss:0.0068,acc:0.9946,f1:0.9939,ROCauc:1.0000| Valid loss:0.3913,acc:0.5263,f1:0.4000,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004934551194310188
+tr_f1 doesnot improve from 1.0
+Epoch:372, Train loss:0.0108,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4026,acc:0.5263,f1:0.4706,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004934551194310188
+tr_f1 improve from 1.0 to 1.0
+Epoch:373, Train loss:0.0048,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3856,acc:0.4737,f1:0.2857,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.004934551194310188 to 0.004799454938620329
+tr_f1 improve from 1.0 to 1.0
+Epoch:374, Train loss:0.0268,acc:0.9891,f1:0.9886,ROCauc:1.0000| Valid loss:0.4368,acc:0.5263,f1:0.0000,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 doesnot improve from 1.0
+Epoch:375, Train loss:0.0104,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4198,acc:0.4211,f1:0.0000,ROCauc:0.3068|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 improve from 1.0 to 1.0
+Epoch:376, Train loss:0.0071,acc:0.9946,f1:0.9945,ROCauc:1.0000| Valid loss:0.3572,acc:0.5263,f1:0.3077,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 doesnot improve from 1.0
+Epoch:377, Train loss:0.0102,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4733,acc:0.5263,f1:0.1818,ROCauc:0.3068|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 improve from 1.0 to 1.0
+Epoch:378, Train loss:0.0179,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.5038,acc:0.5263,f1:0.0000,ROCauc:0.3295|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 improve from 1.0 to 1.0
+Epoch:379, Train loss:0.0153,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4519,acc:0.5263,f1:0.0000,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 improve from 1.0 to 1.0
+Epoch:380, Train loss:0.0212,acc:0.9946,f1:0.9947,ROCauc:1.0000| Valid loss:0.5259,acc:0.5263,f1:0.0000,ROCauc:0.4091|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 doesnot improve from 1.0
+Epoch:381, Train loss:0.0055,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3535,acc:0.4737,f1:0.2857,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 improve from 1.0 to 1.0
+Epoch:382, Train loss:0.0090,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.5617,acc:0.5263,f1:0.1818,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 improve from 1.0 to 1.0
+Epoch:383, Train loss:0.0055,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.5700,acc:0.4737,f1:0.1667,ROCauc:0.3409|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 improve from 1.0 to 1.0
+Epoch:384, Train loss:0.0066,acc:0.9946,f1:0.9949,ROCauc:1.0000| Valid loss:0.3906,acc:0.4211,f1:0.2667,ROCauc:0.3750|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 doesnot improve from 1.0
+Epoch:385, Train loss:0.0132,acc:0.9891,f1:0.9895,ROCauc:1.0000| Valid loss:0.4006,acc:0.4737,f1:0.4444,ROCauc:0.4432|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004799454938620329
+tr_f1 doesnot improve from 1.0
+Epoch:386, Train loss:0.0047,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4008,acc:0.4737,f1:0.3750,ROCauc:0.4545|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.004799454938620329 to 0.004740588832646608
+tr_f1 improve from 1.0 to 1.0
+Epoch:387, Train loss:0.0047,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.4299,acc:0.4737,f1:0.3750,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.004740588832646608 to 0.004731421358883381
+tr_f1 improve from 1.0 to 1.0
+Epoch:388, Train loss:0.0092,acc:0.9891,f1:0.9896,ROCauc:1.0000| Valid loss:0.4378,acc:0.3684,f1:0.3333,ROCauc:0.3977|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004731421358883381
+tr_f1 doesnot improve from 1.0
+Epoch:389, Train loss:0.0075,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.9324,acc:0.4211,f1:0.0000,ROCauc:0.3409|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004731421358883381
+tr_f1 improve from 1.0 to 1.0
+Epoch:390, Train loss:0.0228,acc:0.9837,f1:0.9846,ROCauc:1.0000| Valid loss:0.5273,acc:0.3684,f1:0.4000,ROCauc:0.3864|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004731421358883381
+tr_f1 doesnot improve from 1.0
+Epoch:391, Train loss:0.0189,acc:0.9891,f1:0.9902,ROCauc:1.0000| Valid loss:0.5483,acc:0.4737,f1:0.5455,ROCauc:0.3636|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004731421358883381
+tr_f1 doesnot improve from 1.0
+Epoch:392, Train loss:0.0203,acc:0.9891,f1:0.9881,ROCauc:1.0000| Valid loss:0.4566,acc:0.4737,f1:0.5000,ROCauc:0.4318|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004731421358883381
+tr_f1 doesnot improve from 1.0
+Epoch:393, Train loss:0.0122,acc:0.9837,f1:0.9845,ROCauc:1.0000| Valid loss:0.4461,acc:0.5789,f1:0.6000,ROCauc:0.4773|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004731421358883381
+tr_f1 doesnot improve from 1.0
+Epoch:394, Train loss:0.0044,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3898,acc:0.4737,f1:0.1667,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss improve from 0.004731421358883381 to 0.004376229830086231
+tr_f1 improve from 1.0 to 1.0
+Epoch:395, Train loss:0.0080,acc:0.9946,f1:0.9948,ROCauc:1.0000| Valid loss:0.3925,acc:0.3684,f1:0.2500,ROCauc:0.4659|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004376229830086231
+tr_f1 doesnot improve from 1.0
+Epoch:396, Train loss:0.0164,acc:0.9728,f1:0.9727,ROCauc:1.0000| Valid loss:0.4276,acc:0.4211,f1:0.4211,ROCauc:0.5341|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004376229830086231
+tr_f1 doesnot improve from 1.0
+Epoch:397, Train loss:0.0085,acc:0.9946,f1:0.9948,ROCauc:1.0000| Valid loss:0.4132,acc:0.5263,f1:0.4706,ROCauc:0.5227|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004376229830086231
+tr_f1 doesnot improve from 1.0
+Epoch:398, Train loss:0.0064,acc:1.0000,f1:1.0000,ROCauc:1.0000| Valid loss:0.3857,acc:0.5789,f1:0.5000,ROCauc:0.5341|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
+va_f1 doesnot improve from 0.6956521739130436
+train_loss doesnot improve from 0.004376229830086231
+tr_f1 improve from 1.0 to 1.0
+Epoch:399, Train loss:0.0842,acc:0.9076,f1:0.9154,ROCauc:1.0000| Valid loss:0.7507,acc:0.4737,f1:0.6154,ROCauc:0.5455|Test loss:0.3001,acc:0.5417,f1:0.5600,ROCauc:0.5407
