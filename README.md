@@ -7,9 +7,10 @@ Immunotherapy, specifically, immune checkpoint inhibitors (ICIs) are powerful an
 ## Installation
 - Anaconda3 required (tested on version 4.12.0)
 - Download and unzip this GitHub repo.
-- Create the conda environment for IRnet
+- Create and activate the conda environment for IRnet
 ```sehll
-$ conda env create -f IRnet_env.yaml 
+$ conda env create -f IRnet_env.yaml
+$ conda activate IRnet_env
 ```
 ## Usage
 
