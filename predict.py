@@ -37,6 +37,7 @@ from spektral.layers import GCSConv, GlobalAvgPool, GATConv, DiffPool, GlobalAtt
 from spektral.layers.pooling import TopKPool
 from spektral.transforms.normalize_adj import NormalizeAdj
 from spektral.utils.sparse import sp_matrix_to_sp_tensor
+from scipy.special import softmax
 
 
 
@@ -343,7 +344,7 @@ def build_model(mapp, n_genes, n_pathways, mapping_l1_reg = 2.5e-3, gat1_l2_reg 
     attpool=GlobalAttentionPool(pool_channel, kernel_initializer='glorot_uniform', bias_initializer='zeros', kernel_regularizer=L1(pool_l1_reg))(x2bn)
     x_fc1 = Dense(dense_channel, activation="elu")(attpool)
     output = Dense(2, activation="softmax")(x_fc1)  # MNIST has 10 classes
-    model = Model(inputs=[x_in, a_in], outputs=output)
+    model = Model(inputs=[x_in, a_in], outputs=[output, x2bn, att])
     #optimizer = Adam(lr=1e-1)
     return model
 
@@ -354,7 +355,7 @@ def get_scores_ensemble(model, x, info, a, weight_folder,weight_presuffix,weight
             #for weight_metric in ['tr_f1','tr_f1']:
             for fold in range(0,foldnum):
                 model.load_weights(weight_folder+weight_presuffix+str(fold)+'/_'+weight_metric)
-                predictions = model([x,a],training=False)
+                predictions = model([x,a],training=False)[0]
                 results[fold,:,:]=predictions
             
             results_mean = np.mean(results, axis=0)
@@ -362,13 +363,74 @@ def get_scores_ensemble(model, x, info, a, weight_folder,weight_presuffix,weight
             results_boolean=results_mean[:,1]>cutoff
             f=open(outdir+"./prediction_results.txt",'w')
             f.write("Patient ID\tPredicted score\tPredicted ICI response\n")
-            print(results_mean)
-            print(results_boolean)
+            # print(results_mean)
+            # print(results_boolean)
             for i in range(0,results_boolean.shape[0]):
                 f.write(info[i]+"\t"+str(results_mean[i,1])+"\t"+str(results_boolean[i])+"\n")
             f.close()
 
+# def get_pathway_relation(datafromnpz,model,weight_folder,weight_presuffix,weight_metric):
+def get_pathway_relation(model, pathways, x, info, a, weight_folder,weight_presuffix,weight_metric, outdir, foldnum):
+    results=np.zeros([5,x.shape[0],344,344])
+    for fold in range(5):
+        model.load_weights(weight_folder+weight_presuffix+str(fold)+'/_'+weight_metric)
+        results[fold,:,:,:] = np.array(model([x,a],training=False)[2]).reshape(x.shape[0],344,344)
+    results_mean = np.mean(results, axis=0)
+    print(results_mean.shape)
 
+    for i in range(info.shape[0]):
+        pid = info[i]
+        pfile_path = os.path.join(outdir, pid)
+        if not os.path.exists(pfile_path):
+            os.makedirs(pfile_path)
+        p_path_relation = results_mean[i]
+        df=pd.DataFrame(p_path_relation,columns=pathways, index=pathways)
+        pfile = os.path.join(pfile_path, 'Pathway_relation.csv')
+        df.to_csv(pfile)
+        
+
+    return results_mean
+
+
+
+# def get_pathway_importance(datafromnpz,model,weight_folder,weight_presuffix,weight_metric):
+def get_pathway_importance(model, pathways, x, info, a, weight_folder,weight_presuffix,weight_metric, outdir, foldnum):
+    results=np.zeros([5,x.shape[0],344,4])
+    weights=np.zeros([5,4,8])
+    predictions=np.zeros([5,x.shape[0],2])
+    for fold in range(5):
+        model.load_weights(weight_folder+weight_presuffix+str(fold)+'/_'+weight_metric)
+        results[fold,:,:,:] = np.array(model([x,a],training=False)[1])
+        weights[fold,:,:]=np.array(model.weights[20])
+        prediction = model([x,a],training=False)[0]
+        predictions[fold,:,:]=prediction
+    predictions_mean = np.mean(predictions, axis=0)
+    results_mean = np.mean(results, axis=0)
+    # print(results_mean.shape)
+    weights_mean = np.mean(weights, axis=0)
+    # print(weights_mean.shape)
+    att=np.matmul(results_mean, weights_mean)  
+    att_pathway=np.mean(att,axis=2)
+    m=softmax(att_pathway,axis=1)
+    print(m.shape)
+
+    pfile = os.path.join(outdir, 'Pathway_weight.csv')
+    df=pd.DataFrame(m,columns=pathways, index=info)
+    df_transposed = df.T
+    df_transposed.to_csv(pfile)
+
+    # for i in range(info.shape[0]):
+    #     pid = info[i]
+    #     pfile_path = os.path.join(outdir, pid)
+    #     if not os.path.exists(pfile_path):
+    #         os.makedirs(pfile_path)
+    #     p_pathway = m[i]
+    #     df=pd.DataFrame(p_pathway,columns='Weight', index=pathways)
+    #     pfile = os.path.join(pfile_path, 'Pathway_weight.csv')
+    #     df.to_csv(pfile)
+
+    return m,predictions_mean
+        
 
     
 
@@ -499,6 +561,9 @@ def main():
     elif drug=="anti-CTLA4":
         weight_presuffix="Gide_bsp_TCGAtransSKCMBLCASTADboostp1_bootstp3_2_steval5_"
     get_scores_ensemble(model, x_test, info_test, pathway_a, weight_folder,weight_presuffix,"va_f1",0.5, outputdir,5)
+    get_pathway_relation(model, pathways, x_test, info_test, pathway_a, weight_folder,weight_presuffix,"va_f1",outputdir,5)
+    get_pathway_importance(model, pathways, x_test, info_test, pathway_a, weight_folder,weight_presuffix,"va_f1",outputdir,5)
+    
 
 if __name__ == "__main__":
     main()
